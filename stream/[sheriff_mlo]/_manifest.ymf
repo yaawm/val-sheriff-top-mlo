@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CPackFileMetaData>
+ <MapDataGroups />
+ <HDTxdBindingArray />
+ <imapDependencies />
+ <imapDependencies_2 itemType="CImapDependencies">
+  <Item>
+   <imapName>val_shertop_int_ymap</imapName>
+   <manifestFlags>INTERIOR_DATA</manifestFlags>
+   <itypDepArray>
+    <Item>int_depot</Item>
+    <Item>int_general_store</Item>
+    <Item>int_jail</Item>
+    <Item>int_lootable</Item>
+    <Item>int_office</Item>
+    <Item>int_saloon</Item>
+    <Item>int_specialist_shop</Item>
+    <Item>int_residential</Item>
+    <Item>mp006_s_lev_des_rend_targ</Item>
+    <Item>mp007_naturalist</Item>
+    <Item>p_armory</Item>
+    <Item>p_bedroom</Item>
+    <Item>p_camp</Item>
+    <Item>p_camp02</Item>
+    <Item>p_clothing</Item>
+    <Item>p_curtain</Item>
+    <Item>p_door</Item>
+    <Item>p_drink</Item>
+    <Item>p_drug</Item>
+    <Item>p_food</Item>
+    <Item>p_furniture</Item>
+    <Item>p_household</Item>
+    <Item>p_hunting</Item>
+    <Item>p_kitchen</Item>
+    <Item>p_light</Item>
+    <Item>p_light_ground01</Item>
+    <Item>p_light_wall01</Item>
+    <Item>p_office</Item>
+    <Item>p_seating</Item>
+    <Item>p_store</Item>
+    <Item>p_table</Item>
+    <Item>p_tool</Item>
+    <Item>p_valuable</Item>
+    <Item>p_window</Item>
+    <Item>s_caravan</Item>
+    <Item>s_cs_objects</Item>
+    <Item>s_lev_des</Item>
+    <Item>s_lev_des_rend_targ</Item>
+    <Item>s_minigame</Item>
+    <Item>s_pickups</Item>
+    <Item>val_shertop_int_ytyp</Item>
+   </itypDepArray>
+  </Item>
+ </imapDependencies_2>
+ <itypDependencies_2 />
+ <Interiors itemType="CInteriorBoundsFiles">
+  <Item>
+   <Name>val_shertop_int_col</Name>
+   <Bounds>
+    <Item>val_shertop_int_col</Item>
+   </Bounds>
+  </Item>
+ </Interiors>
+ <QFCESDA_0xE4E2A5F7 />
+ <BwREReA_0x637C584A />
+ <txdRelationships />
+ <imapAliases />
+ <assetOwnerMap />
+</CPackFileMetaData>

@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CMapData>
+ <name />
+ <parent />
+ <flags value="2" />
+ <contentFlags value="65" />
+ <streamingExtentsMin x="-677.8878" y="411.7849" z="-278.4546" />
+ <streamingExtentsMax x="123.60657" y="1213.742" z="523.4219" />
+ <entitiesExtentsMin x="-277.8878" y="811.7849" z="121.54541" />
+ <entitiesExtentsMax x="-276.39343" y="813.74194" z="123.42189" />
+ <entities>
+  <Item type="CEntityDef">
+   <archetypeName>p_bench09x</archetypeName>
+   <flags value="1572897" />
+   <id value="0x0000000000000000" />
+   <position x="-277.05383" y="812.2158" z="121.54541" />
+   <rotation x="-0" y="0" z="0.995769" w="0.091893" />
+   <scaleXY value="1" />
+   <scaleZ value="1" />
+   <parentIndex value="-1" />
+   <lodDist value="500" />
+   <childLodDist value="500" />
+   <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+   <numChildren value="0" />
+   <priorityLevel>PRI_REQUIRED</priorityLevel>
+   <extensions />
+   <powerGridId value="0" />
+   <tintValue value="0" />
+   <blendAgeLayer value="0" />
+   <blendAgeDirt value="0" />
+  </Item>
+  <Item type="CEntityDef">
+   <archetypeName>p_bottlebeer01x</archetypeName>
+   <flags value="1572897" />
+   <id value="0x0000000000000000" />
+   <position x="-276.5851" y="813.5479" z="122.351166" />
+   <rotation x="-0" y="0" z="0.043619" w="0.999048" />
+   <scaleXY value="1" />
+   <scaleZ value="1" />
+   <parentIndex value="-1" />
+   <lodDist value="500" />
+   <childLodDist value="500" />
+   <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+   <numChildren value="0" />
+   <priorityLevel>PRI_REQUIRED</priorityLevel>
+   <extensions />
+   <powerGridId value="0" />
+   <tintValue value="0" />
+   <blendAgeLayer value="0" />
+   <blendAgeDirt value="0" />
+  </Item>
+  <Item type="CEntityDef">
+   <archetypeName>p_bottlebeer01x</archetypeName>
+   <flags value="1572897" />
+   <id value="0x0000000000000000" />
+   <position x="-276.53067" y="813.3067" z="122.34905" />
+   <rotation x="-0" y="0" z="0.705646" w="0.708565" />
+   <scaleXY value="1" />
+   <scaleZ value="1" />
+   <parentIndex value="-1" />
+   <lodDist value="500" />
+   <childLodDist value="500" />
+   <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+   <numChildren value="0" />
+   <priorityLevel>PRI_REQUIRED</priorityLevel>
+   <extensions />
+   <powerGridId value="0" />
+   <tintValue value="0" />
+   <blendAgeLayer value="0" />
+   <blendAgeDirt value="0" />
+  </Item>
+  <Item type="CEntityDef">
+   <archetypeName>p_bottlebeer01x</archetypeName>
+   <flags value="1572897" />
+   <id value="0x0000000000000000" />
+   <position x="-276.438" y="813.4554" z="122.38264" />
+   <rotation x="0.712127" y="0.010443" z="-0.017143" w="0.701763" />
+   <scaleXY value="1" />
+   <scaleZ value="1" />
+   <parentIndex value="-1" />
+   <lodDist value="500" />
+   <childLodDist value="500" />
+   <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+   <numChildren value="0" />
+   <priorityLevel>PRI_REQUIRED</priorityLevel>
+   <extensions />
+   <powerGridId value="0" />
+   <tintValue value="0" />
+   <blendAgeLayer value="0" />
+   <blendAgeDirt value="0" />
+  </Item>
+  <Item type="CEntityDef">
+   <archetypeName>p_barrel05b</archetypeName>
+   <flags value="1572897" />
+   <id value="0x0000000000000000" />
+   <position x="-276.41684" y="813.4846" z="121.557304" />
+   <rotation x="-0" y="0" z="0.674538" w="0.73824" />
+   <scaleXY value="1" />
+   <scaleZ value="1" />
+   <parentIndex value="-1" />
+   <lodDist value="500" />
+   <childLodDist value="500" />
+   <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+   <numChildren value="0" />
+   <priorityLevel>PRI_REQUIRED</priorityLevel>
+   <extensions />
+   <powerGridId value="0" />
+   <tintValue value="0" />
+   <blendAgeLayer value="255" />
+   <blendAgeDirt value="255" />
+  </Item>
+  <Item type="CEntityDef">
+   <archetypeName>p_clothbalconyd01x</archetypeName>
+   <flags value="1572897" />
+   <id value="0x0000000000000000" />
+   <position x="-277.49158" y="813.74194" z="122.57357" />
+   <rotation x="-0" y="0" z="0.996222" w="0.086841" />
+   <scaleXY value="1" />
+   <scaleZ value="1" />
+   <parentIndex value="-1" />
+   <lodDist value="500" />
+   <childLodDist value="500" />
+   <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+   <numChildren value="0" />
+   <priorityLevel>PRI_REQUIRED</priorityLevel>
+   <extensions />
+   <powerGridId value="0" />
+   <tintValue value="0" />
+   <blendAgeLayer value="0" />
+   <blendAgeDirt value="0" />
+  </Item>
+  <Item type="CEntityDef">
+   <archetypeName>p_debrispile01x</archetypeName>
+   <flags value="1572897" />
+   <id value="0x0000000000000000" />
+   <position x="-276.5676" y="812.43115" z="121.55976" />
+   <rotation x="-0" y="0" z="0.886416" w="0.46289" />
+   <scaleXY value="1" />
+   <scaleZ value="1" />
+   <parentIndex value="-1" />
+   <lodDist value="500" />
+   <childLodDist value="500" />
+   <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+   <numChildren value="0" />
+   <priorityLevel>PRI_REQUIRED</priorityLevel>
+   <extensions />
+   <powerGridId value="0" />
+   <tintValue value="0" />
+   <blendAgeLayer value="0" />
+   <blendAgeDirt value="0" />
+  </Item>
+  <Item type="CEntityDef">
+   <archetypeName>p_lantern05x</archetypeName>
+   <flags value="1572897" />
+   <id value="0x0000000000000000" />
+   <position x="-276.2733" y="813.4019" z="122.35366" />
+   <rotation x="-0" y="0" z="0.61263" w="0.79037" />
+   <scaleXY value="1" />
+   <scaleZ value="1" />
+   <parentIndex value="-1" />
+   <lodDist value="500" />
+   <childLodDist value="500" />
+   <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+   <numChildren value="0" />
+   <priorityLevel>PRI_REQUIRED</priorityLevel>
+   <extensions />
+   <powerGridId value="0" />
+   <tintValue value="0" />
+   <blendAgeLayer value="0" />
+   <blendAgeDirt value="0" />
+  </Item>
+  <Item type="CEntityDef">
+   <archetypeName>p_broom01x</archetypeName>
+   <flags value="1572897" />
+   <id value="0x0000000000000000" />
+   <position x="-278.20496" y="812.0444" z="121.55287" />
+   <rotation x="0.015062" y="-0.085844" z="0.981206" w="0.172162" />
+   <scaleXY value="1" />
+   <scaleZ value="1" />
+   <parentIndex value="-1" />
+   <lodDist value="500" />
+   <childLodDist value="500" />
+   <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+   <numChildren value="0" />
+   <priorityLevel>PRI_REQUIRED</priorityLevel>
+   <extensions />
+   <powerGridId value="0" />
+   <tintValue value="0" />
+   <blendAgeLayer value="0" />
+   <blendAgeDirt value="0" />
+  </Item>
+ </entities>
+ <containerLods />
+ <boxOccluders />
+ <occludeModels />
+ <physicsDictionaries />
+ <instancedData type="rage__fwInstancedMapData">
+  <ImapLink />
+  <PropInstanceList />
+  <GrassInstanceList />
+ </instancedData>
+ <timeCycleModifiers />
+ <awOyxCA_0x8471928B />
+ <dakdTAA_0x4D4A0635 />
+ <carGenerators />
+ <LODLightsSOA type="CLODLight">
+  <direction />
+  <falloff />
+  <falloffExponent />
+  <timeAndStateFlags />
+  <hash />
+  <coneInnerAngle />
+  <coneOuterAngleOrCapExt />
+  <coronaIntensity />
+  <XVPnEEA_0xFFD167D6 />
+ </LODLightsSOA>
+ <DistantLODLightsSOA type="CDistantLODLight">
+  <position />
+  <RGB />
+  <intensity />
+  <numStreetLights value="0" />
+  <category value="0" />
+  <powerGridId />
+  <hash />
+ </DistantLODLightsSOA>
+ <block type="CBlockDesc">
+  <version value="0" />
+  <flags value="0" />
+  <name />
+  <exportedBy />
+  <owner />
+  <time />
+ </block>
+</CMapData>

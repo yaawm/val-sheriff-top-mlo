@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CMapData>
+ <name>val_shertop_int_ymap</name>
+ <parent />
+ <flags value="0" />
+ <contentFlags value="73" />
+ <streamingExtentsMin x="-332.82037" y="749.5879" z="68.51124" />
+ <streamingExtentsMax x="-221.55298" y="864.9248" z="177.84671" />
+ <entitiesExtentsMin x="-279.82037" y="802.5879" z="121.51124" />
+ <entitiesExtentsMax x="-274.55298" y="811.9248" z="124.84672" />
+ <entities>
+  <Item type="CMloInstanceDef">
+   <archetypeName>val_shertop_int_col</archetypeName>
+   <flags value="1572864" />
+   <id value="0x0000000000000000" />
+   <position x="-276.1627" y="806.75116" z="121.72208" />
+   <rotation x="-0" y="-0" z="-0" w="1" />
+   <scaleXY value="1" />
+   <scaleZ value="1" />
+   <parentIndex value="-1" />
+   <lodDist value="40" />
+   <childLodDist value="0" />
+   <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+   <numChildren value="0" />
+   <priorityLevel>PRI_REQUIRED</priorityLevel>
+   <extensions />
+   <powerGridId value="0" />
+   <tintValue value="0" />
+   <blendAgeLayer value="255" />
+   <blendAgeDirt value="255" />
+   <groupId>IG_ID_NONE</groupId>
+   <floorId value="0" />
+   <defaultEntitySets />
+   <numExitPortals value="6" />
+   <MLOInstflags value="8" />
+   <azxAZNA_0x15810E7F value="250" />
+  </Item>
+ </entities>
+ <containerLods />
+ <boxOccluders />
+ <occludeModels />
+ <physicsDictionaries>
+  <Item>val_shertop_int_col</Item>
+ </physicsDictionaries>
+ <instancedData type="rage__fwInstancedMapData">
+  <ImapLink />
+  <PropInstanceList />
+  <GrassInstanceList />
+ </instancedData>
+ <timeCycleModifiers />
+ <awOyxCA_0x8471928B />
+ <dakdTAA_0x4D4A0635 />
+ <carGenerators />
+ <LODLightsSOA type="CLODLight">
+  <direction />
+  <falloff />
+  <falloffExponent />
+  <timeAndStateFlags />
+  <hash />
+  <coneInnerAngle />
+  <coneOuterAngleOrCapExt />
+  <coronaIntensity />
+  <XVPnEEA_0xFFD167D6 />
+ </LODLightsSOA>
+ <DistantLODLightsSOA type="CDistantLODLight">
+  <position />
+  <RGB />
+  <intensity />
+  <numStreetLights value="0" />
+  <category value="0" />
+  <powerGridId />
+  <hash />
+ </DistantLODLightsSOA>
+ <block type="CBlockDesc">
+  <version value="0" />
+  <flags value="0" />
+  <name>val_shertop_int_ymap</name>
+  <exportedBy />
+  <owner />
+  <time />
+ </block>
+</CMapData>
