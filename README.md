@@ -2,6 +2,8 @@
 
 Thanks for downloading this MLO! Please read until the end.
 
+Simply drag and drop main folder into your resources folder, then ensure in server.cfg
+
 Contains:
 - Modified exterior
 - Custom interior
