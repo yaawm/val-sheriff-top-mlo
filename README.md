@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/64cbfc74-cfc1-4693-a783-bc20f4588554)# val-sheriff-top-mlo
+# val-sheriff-top-mlo
 
 Thanks for downloading this MLO!
 
