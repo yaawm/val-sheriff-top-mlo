@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/eca517d9-f2c5-4ef1-b901-bbcf5954f0b8)# Valentine's Sheriff Upper Office MLO
+# Valentine's Sheriff Upper Office MLO
 
 Thanks for downloading this MLO! Please read until the end.
 
