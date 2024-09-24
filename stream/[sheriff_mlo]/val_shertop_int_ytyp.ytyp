@@ -815,7 +815,7 @@
       <Item type="CExtensionDefScriptEntityId">
        <name>p_door_val_jail01x</name>
        <offsetPosition x="0" y="0" z="0" />
-       <Id>lHRIfJA_0xBBCB6F91</Id>
+       <Id>soda_val_sheriff_door</Id>
       </Item>
      </extensions>
      <powerGridId value="0" />
